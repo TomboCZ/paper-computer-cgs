@@ -16,9 +16,9 @@ Fanouškovská dokumentace o jedinečném papírovém počítači CGS, který v 
 
 | Formát | Odkaz |
 |--------|-------|
-| 📄 PDF  | [Stáhnout](Papírový-pocitac-CGS---Tomas-Bobek.pdf) |
-| 📱 EPUB | [Stáhnout](Papírový-pocitac-CGS---Tomas-Bobek.epub) |
-| 📘 MOBI | [Stáhnout](Papírový-pocitac-CGS---Tomas-Bobek.mobi) |
+| 📄 PDF  | [Stáhnout](Papirovy_pocitac_CGS_Tomas_Bobek.pdf) |
+| 📱 EPUB | [Stáhnout](Papirovy_pocitac_CGS_Tomas_Bobek.epub) |
+| 📘 MOBI | [Stáhnout](Papirovy_pocitac_CGS_Tomas_Bobek.mobi) |
 
 > Verze: 1.0 (23. 3. 2025)  
 > Autor: [Tomáš "Tombo" Bobek](https://github.com/TomboCZ)  
