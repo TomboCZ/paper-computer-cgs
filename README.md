@@ -2,6 +2,8 @@
 
 Fanouškovská dokumentace o jedinečném papírovém počítači CGS, který v 80. letech přivedl tisíce československých dětí k programování – bez čipu, bez obrazovky, jen s tužkou a papírem.
 
+<img src="assets/3D-mock.jpg" alt="obálka knihy" width="400"/>
+
 ## 🧠 O čem to je?
 
 > CGS (Computer Game System) byl ručně ovládaný simulátor počítače publikovaný jako vystřihovánka v časopisu ABC v roce 1980. Tato publikace mapuje jeho historii, princip, jazyk a didaktický význam.
@@ -16,9 +18,9 @@ Fanouškovská dokumentace o jedinečném papírovém počítači CGS, který v 
 
 | Formát | Odkaz |
 |--------|-------|
-| 📄 PDF  | [Stáhnout](Papirovy_pocitac_CGS_Tomas_Bobek.pdf) |
-| 📱 EPUB | [Stáhnout](Papirovy_pocitac_CGS_Tomas_Bobek.epub) |
-| 📘 MOBI | [Stáhnout](Papirovy_pocitac_CGS_Tomas_Bobek.mobi) |
+| 📄 PDF  | [Stáhnout](books/Papirovy_pocitac_CGS_Tomas_Bobek.pdf) |
+| 📱 EPUB | [Stáhnout](books/Papirovy_pocitac_CGS_Tomas_Bobek.epub) |
+| 📘 MOBI | [Stáhnout](books/Papirovy_pocitac_CGS_Tomas_Bobek.mobi) |
 
 > Verze: 1.0 (23. 3. 2025)  
 > Autor: [Tomáš "Tombo" Bobek](https://github.com/TomboCZ)  
