@@ -37,9 +37,10 @@ Fanouškovská dokumentace o jedinečném papírovém počítači CGS, který v 
 Pokud najdete chybu nebo máte nápad na doplnění, otevřte issue. Historie CGS si zaslouží co nejpřesnější rekonstrukci.
 
 
-## Buy me a coffe
+## ☕ Kafe pro autora
 
-Z kafe ještě nikdo nezbohatl, ale s ním to jde lépe. Pokud se vám knížečka líbí, můžete odměnit mou snahu popsat CGS příspěvkem na mém [Buy me a coffee](https://buymeacoffee.com/tbobekczf) na cappuccino. 
+CGS je zdarma, kofein ne.  Líbilo? Nakoplo?  
+Kup autorovi kafe na [Buy me a coffee](https://buymeacoffee.com/tbobekczf) a třeba ještě něco napíše.
 
 <a href="https://buymeacoffee.com/tbobekczf">
   <img src="assets/bmc.png" alt="Buy me a coffee" width="200"/>
